@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">sdcard-scanner</string>
+    <string name="action_settings">Settings</string>
+    <string name="format_byte">%1$.2f b</string>
+    <string name="format_kilobyte">%1$.2f Kb</string>
+    <string name="format_megabyte">%1$.2f Mb</string>
+    <string name="format_gigabyte">%1$.2f Gb</string>
+    <string name="label_filename">Filename</string>
+    <string name="label_size">Size</string>
+    <string name="label_extension">Extension</string>
+    <string name="label_count">Count</string>
+    <string name="label_largest_files">Largest Files</string>
+    <string name="label_recent_ext">Most Recent Extensions</string>
+    <string name="label_avg_file_size">AVG. FILE SIZE</string>
+    <string name="label_no_ext">&lt;no extension&gt;</string>
+    <string name="label_processing">Processing files</string>
+    <string name="label_processing_d">Processing files: %1$d%%</string>
+    <string name="label_obtaining_file_list">Obtaining file list</string>
+    <string name="label_notification_title">Scanning SD-card</string>
+</resources>
+
