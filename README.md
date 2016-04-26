@@ -1,0 +1,3 @@
+# sdcard-scanner
+
+#Android assessment
